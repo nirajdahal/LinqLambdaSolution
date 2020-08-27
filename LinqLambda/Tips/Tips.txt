@@ -1,0 +1,3 @@
+﻿
+-Lambda is a simple looking method(For simplicity Lambda expression is used)
+-Linq queries data . We can do it via Lambda expression or via full linq script or statement
